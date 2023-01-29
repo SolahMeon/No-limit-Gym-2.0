@@ -20,8 +20,8 @@
         "source": "C:\\Users\\solah\\.gradle\\daemon\\7.4\\com.ict602.nolimitgym.app-main-43:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/activity_renew_membership.xml",
-        "source": "com.ict602.nolimitgym.app-main-43:/layout/activity_renew_membership.xml"
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/activity_view_membership.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/activity_view_membership.xml"
     },
     {
         "merged": "C:\\Users\\solah\\.gradle\\daemon\\7.4\\com.ict602.nolimitgym.app-mergeDebugResources-40:\\layout\\activity_renew_membership.xml",
