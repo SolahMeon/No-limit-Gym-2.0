@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/fragment_first.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/activity_create_membership.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/activity_create_membership.xml"
+    },
+    {
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/activity_view_membership.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/activity_view_membership.xml"
+    },
+    {
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/content_main.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/activity_renew_membership.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/activity_renew_membership.xml"
+    },
+    {
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/fragment_second.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.ict602.nolimitgym.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.ict602.nolimitgym.app-main-43:/layout/activity_main.xml"
+    }
+]

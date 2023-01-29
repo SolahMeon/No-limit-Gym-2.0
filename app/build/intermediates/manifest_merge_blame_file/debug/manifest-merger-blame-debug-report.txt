@@ -1,0 +1,150 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ict602.nolimitgym"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\solah\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.ict602.nolimitgym.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\solah\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\solah\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.ict602.nolimitgym.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\solah\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\solah\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:5:5-51:19
+18        android:allowBackup="true"
+18-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\solah\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:8:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.ParcelRecord" >
+28-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:13:9-50
+29        <activity
+29-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:15:9-21:20
+30            android:name="com.ict602.nolimitgym.ViewMembershipActivity"
+30-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:16:13-51
+31            android:exported="false" >
+31-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:17:13-37
+32            <meta-data
+32-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:18:13-20:36
+33                android:name="android.app.lib_name"
+33-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:19:17-52
+34                android:value="" />
+34-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:20:17-33
+35        </activity>
+36        <activity
+36-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:22:9-28:20
+37            android:name="com.ict602.nolimitgym.UpdateMembershipActivity"
+37-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:23:13-53
+38            android:exported="false" >
+38-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:24:13-37
+39            <meta-data
+39-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:18:13-20:36
+40                android:name="android.app.lib_name"
+40-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:19:17-52
+41                android:value="" />
+41-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:20:17-33
+42        </activity>
+43        <activity
+43-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:29:9-35:20
+44            android:name="com.ict602.nolimitgym.RegisterActivity"
+44-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:30:13-45
+45            android:exported="false" >
+45-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:31:13-37
+46            <meta-data
+46-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:18:13-20:36
+47                android:name="android.app.lib_name"
+47-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:19:17-52
+48                android:value="" />
+48-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:20:17-33
+49        </activity>
+50        <activity
+50-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:36:9-50:20
+51            android:name="com.ict602.nolimitgym.MainActivity"
+51-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:37:13-41
+52            android:exported="true"
+52-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:38:13-36
+53            android:label="@string/app_name"
+53-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:39:13-45
+54            android:theme="@style/Theme.ParcelRecord.NoActionBar" >
+54-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:40:13-66
+55            <intent-filter>
+55-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:41:13-45:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:42:17-69
+56-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:42:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:44:17-77
+58-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:44:27-74
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:18:13-20:36
+62                android:name="android.app.lib_name"
+62-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:19:17-52
+63                android:value="" />
+63-->C:\Users\solah\Downloads\No Limit Gym\No_limit_Gym\app\src\main\AndroidManifest.xml:20:17-33
+64        </activity>
+65
+66        <provider
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\solah\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\solah\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+68            android:authorities="com.ict602.nolimitgym.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\solah\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\solah\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\solah\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\solah\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\solah\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\solah\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\solah\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\solah\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+76        </provider>
+77
+78        <uses-library
+78-->[androidx.window:window:1.0.0] C:\Users\solah\.gradle\caches\transforms-3\5efc42ad06fee0a4f57c0275125b73f8\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+79            android:name="androidx.window.extensions"
+79-->[androidx.window:window:1.0.0] C:\Users\solah\.gradle\caches\transforms-3\5efc42ad06fee0a4f57c0275125b73f8\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+80            android:required="false" />
+80-->[androidx.window:window:1.0.0] C:\Users\solah\.gradle\caches\transforms-3\5efc42ad06fee0a4f57c0275125b73f8\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+81        <uses-library
+81-->[androidx.window:window:1.0.0] C:\Users\solah\.gradle\caches\transforms-3\5efc42ad06fee0a4f57c0275125b73f8\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+82            android:name="androidx.window.sidecar"
+82-->[androidx.window:window:1.0.0] C:\Users\solah\.gradle\caches\transforms-3\5efc42ad06fee0a4f57c0275125b73f8\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+83            android:required="false" />
+83-->[androidx.window:window:1.0.0] C:\Users\solah\.gradle\caches\transforms-3\5efc42ad06fee0a4f57c0275125b73f8\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+84    </application>
+85
+86</manifest>
